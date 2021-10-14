@@ -18,4 +18,5 @@ print('hello world')
 
 анализ результатов
 
-![здесь будет картинка](https://www.instagram.com/p/CP_kOCQB0s6/)
+![здесь будет картинка](https://avatars.mds.yandex.net/get-zen_doc/1917356/pub_5d920b85b477bf00b1087090_5d920d7d23bf4800ae3aaa95/scale_1200)
+
